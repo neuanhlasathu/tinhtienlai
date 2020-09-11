@@ -1,0 +1,13 @@
+C:\GGG\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.exe
+C:\GGG\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.deps.json
+C:\GGG\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.runtimeconfig.json
+C:\GGG\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.runtimeconfig.dev.json
+C:\GGG\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.dll
+C:\GGG\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.pdb
+C:\GGG\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.csprojAssemblyReference.cache
+C:\GGG\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.AssemblyInfoInputs.cache
+C:\GGG\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.AssemblyInfo.cs
+C:\GGG\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.csproj.CoreCompileInputs.cache
+C:\GGG\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.dll
+C:\GGG\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.pdb
+C:\GGG\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.genruntimeconfig.cache
